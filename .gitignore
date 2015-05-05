@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+*.pdb
+*.ilk
+*.exe
+*.*sdf
+*.tlog
+*.log
+*.idb
